@@ -3771,7 +3771,7 @@ by exp-lbrs.ulp</description>
 <part name="TP1" library="jonnew" deviceset="TP" device="TP07R" value="VCC"/>
 <part name="SUPPLY1" library="jonnew" deviceset="AGND" device=""/>
 <part name="J2" library="hs-64-spi" deviceset="A79622-001" device=""/>
-<part name="R1" library="jonnew" deviceset="R" device="_0603" value="DNP"/>
+<part name="R1" library="jonnew" deviceset="R" device="_0603" value="0"/>
 <part name="SUPPLY11" library="jonnew" deviceset="AGND" device=""/>
 <part name="C7" library="jonnew" deviceset="C" device="_0402" value="1u"/>
 <part name="FRAME1" library="frames" deviceset="A3L-LOC" device=""/>

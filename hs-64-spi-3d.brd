@@ -1210,7 +1210,7 @@ by exp-lbrs.ulp</description>
 <element name="J2" library="hs-64-spi" package="A79622-001" value="A79622-001" x="-0.4064" y="-0.4064" smashed="yes">
 <attribute name="NAME" x="-1.1204" y="1.8161" size="0.8128" layer="25" font="vector" ratio="19"/>
 </element>
-<element name="R1" library="jonnew" package="0603" value="DNP" x="-4.0844" y="3.946" smashed="yes">
+<element name="R1" library="jonnew" package="0603" value="0" x="-4.0844" y="3.946" smashed="yes">
 <attribute name="DK" value="PxxxxHTR-ND" x="-4.0844" y="3.946" size="1.778" layer="27" display="off"/>
 <attribute name="MN" value="Panasonic" x="-4.0844" y="3.946" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="ERJ-3EKFxxxxV" x="-4.0844" y="3.946" size="1.778" layer="27" display="off"/>
