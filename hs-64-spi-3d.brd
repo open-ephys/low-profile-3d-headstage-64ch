@@ -1263,11 +1263,11 @@ by exp-lbrs.ulp</description>
 <attribute name="PARTNO" value="CL05A106MQ5NUNC" x="2.7298" y="3.7982" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="3.9998" y="-3.6238" size="1.016" layer="27" font="vector" ratio="18" rot="R180"/>
 </element>
-<element name="R7" library="jonnew" package="0201T" value="2.2k" x="2.4638" y="-0.2413" smashed="yes" rot="R90">
+<element name="R7" library="jonnew" package="0201T" value="2k" x="2.4638" y="-0.2413" smashed="yes" rot="R90">
 <attribute name="NAME" x="2.7178" y="-2.2225" size="0.8128" layer="25" font="vector" ratio="18" rot="R90"/>
 <attribute name="VALUE" x="4.0386" y="-1.4351" size="1.016" layer="27" font="vector" ratio="18" rot="R90"/>
 </element>
-<element name="R8" library="jonnew" package="0201T" value="2.2k" x="3.1623" y="-0.2413" smashed="yes" rot="R90">
+<element name="R8" library="jonnew" package="0201T" value="2k" x="3.1623" y="-0.2413" smashed="yes" rot="R90">
 <attribute name="NAME" x="3.6195" y="-2.2225" size="0.8128" layer="25" font="vector" ratio="19" rot="R90"/>
 <attribute name="VALUE" x="4.7371" y="-1.4351" size="1.016" layer="27" font="vector" ratio="18" rot="R90"/>
 </element>

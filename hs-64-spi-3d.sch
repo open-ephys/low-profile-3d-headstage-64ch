@@ -3809,8 +3809,8 @@ by exp-lbrs.ulp</description>
 <part name="SUPPLY6" library="jonnew" deviceset="AGND" device=""/>
 <part name="P7" library="jonnew" deviceset="+3V3" device=""/>
 <part name="U$2" library="jonnew" deviceset="+2V5" device=""/>
-<part name="R7" library="jonnew" deviceset="R" device="_0201T" value="2.2k"/>
-<part name="R8" library="jonnew" deviceset="R" device="_0201T" value="2.2k"/>
+<part name="R7" library="jonnew" deviceset="R" device="_0201T" value="2k"/>
+<part name="R8" library="jonnew" deviceset="R" device="_0201T" value="2k"/>
 <part name="U$3" library="jonnew" deviceset="+2V5" device=""/>
 <part name="U$4" library="jonnew" deviceset="+2V5" device=""/>
 <part name="U2" library="jonnew" deviceset="BNO055" device=""/>
