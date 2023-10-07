@@ -3773,7 +3773,7 @@ by exp-lbrs.ulp</description>
 <part name="J2" library="hs-64-spi" deviceset="A79622-001" device=""/>
 <part name="R1" library="jonnew" deviceset="R" device="_0603" value="0"/>
 <part name="SUPPLY11" library="jonnew" deviceset="AGND" device=""/>
-<part name="C7" library="jonnew" deviceset="C" device="_0402" value="1u"/>
+<part name="C7" library="jonnew" deviceset="C" device="_0402" value="4.7u"/>
 <part name="FRAME1" library="frames" deviceset="A3L-LOC" device=""/>
 <part name="GND" library="RHD2000_eval_board" deviceset="TESTPOINT" device="_SMALL"/>
 <part name="REF" library="RHD2000_eval_board" deviceset="TESTPOINT" device="_SMALL"/>
@@ -3791,7 +3791,7 @@ by exp-lbrs.ulp</description>
 <part name="C3" library="jonnew" deviceset="C" device="_0201T" value="0.1uF"/>
 <part name="U3" library="jonnew" deviceset="TLV707" device="" value="TLV70725"/>
 <part name="U$45" library="jonnew" deviceset="+2V5" device=""/>
-<part name="C4" library="jonnew" deviceset="C" device="_0402T" value="1uF">
+<part name="C4" library="jonnew" deviceset="C" device="_0402T" value="4.7uF">
 <attribute name="PARTNO" value="CL05A105KO5NNNC"/>
 </part>
 <part name="C8" library="jonnew" deviceset="C" device="_0402T" value="10uF">

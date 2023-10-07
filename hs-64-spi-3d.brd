@@ -1216,7 +1216,7 @@ by exp-lbrs.ulp</description>
 <attribute name="MPN" value="ERJ-3EKFxxxxV" x="-4.0844" y="3.946" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="-4.718725" y="2.162" size="0.8128" layer="25" font="vector" ratio="19"/>
 </element>
-<element name="C7" library="jonnew" package="0402" value="1u" x="-3.9544" y="-0.7464" smashed="yes" rot="R180">
+<element name="C7" library="jonnew" package="0402" value="4.7u" x="-3.9544" y="-0.7464" smashed="yes" rot="R180">
 <attribute name="NAME" x="-4.4912" y="-0.0298" size="0.8128" layer="25" font="vector" ratio="19"/>
 </element>
 <element name="GND" library="RHD2000_eval_board" package="TESTPOINT_SMALL" value="TESTPOINT_SMALL" x="-5.0292" y="5.842" smashed="yes">
@@ -1255,7 +1255,7 @@ by exp-lbrs.ulp</description>
 <attribute name="VALUE" x="9.6165" y="-4.4697" size="1.016" layer="27" font="vector" ratio="18" rot="R90"/>
 </element>
 <element name="U3" library="jonnew" package="X2SON" value="TLV70725" x="4.5346" y="-5.9412" smashed="yes"/>
-<element name="C4" library="jonnew" package="0402T" value="1uF" x="4.8888" y="-7.009" smashed="yes" rot="R180">
+<element name="C4" library="jonnew" package="0402T" value="4.7uF" x="4.8888" y="-7.009" smashed="yes" rot="R180">
 <attribute name="PARTNO" value="CL05A105KO5NNNC" x="4.8888" y="-8.009" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="6.1588" y="-5.431" size="1.016" layer="27" font="vector" ratio="18" rot="R180"/>
 </element>
