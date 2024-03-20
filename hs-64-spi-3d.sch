@@ -4003,22 +4003,12 @@ by exp-lbrs.ulp</description>
 <busses>
 </busses>
 <nets>
-<net name="LED-2" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="35"/>
-<wire x1="152.4" y1="200.66" x2="152.4" y2="195.58" width="0.1524" layer="91"/>
-<label x="152.4" y="195.58" size="1.27" layer="95" rot="R270" xref="yes"/>
-</segment>
-</net>
 <net name="VCOAX" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="36"/>
 <wire x1="152.4" y1="215.9" x2="152.4" y2="218.44" width="0.1524" layer="91"/>
-<label x="152.4" y="220.98" size="1.27" layer="95" rot="R90" xref="yes"/>
-<wire x1="152.4" y1="218.44" x2="152.4" y2="220.98" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="218.44" x2="162.56" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="162.56" y1="218.44" x2="162.56" y2="210.82" width="0.1524" layer="91"/>
-<junction x="152.4" y="218.44"/>
 <pinref part="J1" gate="G$1" pin="M3"/>
 <wire x1="162.56" y1="210.82" x2="160.02" y2="210.82" width="0.1524" layer="91"/>
 </segment>
@@ -4791,13 +4781,6 @@ by exp-lbrs.ulp</description>
 <pinref part="J1" gate="G$1" pin="18"/>
 </segment>
 </net>
-<net name="LED-1" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="34"/>
-<wire x1="149.86" y1="195.58" x2="149.86" y2="200.66" width="0.1524" layer="91"/>
-<label x="149.86" y="195.58" size="1.27" layer="95" rot="R270" xref="yes"/>
-</segment>
-</net>
 <net name="REF" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="69"/>
@@ -5057,13 +5040,6 @@ by exp-lbrs.ulp</description>
 <pinref part="U1" gate="A" pin="AUXOUT"/>
 <pinref part="TP2" gate="G$1" pin="TP"/>
 <wire x1="160.02" y1="124.46" x2="160.02" y2="116.84" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="ISTIM" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="1"/>
-<wire x1="66.04" y1="200.66" x2="66.04" y2="195.58" width="0.1524" layer="91"/>
-<label x="66.04" y="195.58" size="1.27" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="ZOUT" class="0">
